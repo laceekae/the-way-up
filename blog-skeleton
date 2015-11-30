@@ -5,6 +5,12 @@
 </head>
 
 <body>
+  <div class="navigation">
+  </div>
+  
+  <div class="jumbotron">
+    <h1>The Way Up</h1>
+  </div>
 </body>
 
 </html>
